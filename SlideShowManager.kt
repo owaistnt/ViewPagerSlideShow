@@ -11,6 +11,7 @@ import androidx.viewpager.widget.ViewPager
 
 /***
  * @author Owais Idris
+ *Use [[setupWithViewPager]] method to attach a ViewPager
  */
 
 
