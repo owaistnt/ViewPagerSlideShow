@@ -145,9 +145,9 @@ class SlideShowManager{
     }
 
 
-
-
-
+    /***
+        This can be used for delegating. It is created just in case you want to implement it and can be easily found here.
+     */
     interface ICanSlideShow{
         fun startPresentation()
     }
